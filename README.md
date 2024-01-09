@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there 👋 I am Suraj Mamgai, working as an SDE1 at PocketFM.
+### Hi there 👋 I am Suraj Mamgai, working as a SDE1 at PocketFM.
 ---
 
 
