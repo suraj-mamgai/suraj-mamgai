@@ -41,6 +41,7 @@ Primary interests: Django, Competitive Programming, C++, JavaScript, Blockchain 
 #### Linkedin : https://linkedin.com/in/surajmamgai 
 #### Leetcode : https://leetcode.com/surajmamgai
 #### Codeforces : https://codeforces.com/profile/surajmamgai
+#### GeeksForGeeks : https://auth.geeksforgeeks.org/user/surajmamgai/practice
 
 <br />
 
